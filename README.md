@@ -1,0 +1,1 @@
+# swagger-keycloak-consul-config
